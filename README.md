@@ -39,6 +39,11 @@ The Migrant Files [homepage](http://themigrantfiles.com) has several nice d3.js 
 Migrant Deaths mapped with [d3.geo.tile](http://bl.ocks.org/boeric/47aceae44bb5f8b63d7b)  
 Migrant Deaths mapped with [d3 + Leaflet + Crossfilter](http://bl.ocks.org/shobhitg/60eec0e1727c6c628728)  
 
+[The Refugee Project](http://www.therefugeeproject.org/)  
+
+[http://www.migreurop.org](http://www.migreurop.org/)  
+[Design process making maps & understanding the crisis](http://visionscarto.net/mourir-aux-portes-de-l-europe) (French)
+
 ## Tools
 
 Quickly put together d3 based map with [DataMapper](http://datamaps.github.io/)  
