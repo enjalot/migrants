@@ -1,6 +1,6 @@
-# The Migrant Files
+# The Migrants Files
 
-[The Migrant Files](http://themigrantfiles.com) project has been collecting data about the ongoing refugee crisis in Europe. 
+[The Migrants Files](http://themigrantsfiles.com) project has been collecting data about the ongoing refugee crisis in Europe. 
 
 
 ## Deaths
@@ -34,7 +34,7 @@ d3.csv("http://enjalot.github.io/migrants/money.csv", function(err, rawdata) { .
 
 
 ## Inspiration
-The Migrant Files [homepage](http://themigrantfiles.com) has several nice d3.js visualizations
+The Migrant Files [homepage](http://themigrantsfiles.com) has several nice d3.js visualizations
 
 Migrant Deaths mapped with [d3.geo.tile](http://bl.ocks.org/boeric/47aceae44bb5f8b63d7b)  
 Migrant Deaths mapped with [d3 + Leaflet + Crossfilter](http://bl.ocks.org/shobhitg/60eec0e1727c6c628728)  
